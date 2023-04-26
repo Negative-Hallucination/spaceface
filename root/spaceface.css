@@ -1,0 +1,65 @@
+
+
+
+
+body {
+    background: #f5f4f3;
+}
+
+
+
+
+
+section, article {
+    margin: 3em;
+    padding: 3em;
+}
+
+section {
+    background: #f6f6f5;
+}
+
+article {
+    background: #edeceb;
+}
+
+#_hello {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top:0;
+    z-index: -1;
+    background: #e0dfdc;
+}
+
+#_hello h1 {
+    padding: 3em;
+    border: 1px black;
+    border-style: solid;
+}
+
+#_hello h1 * {
+    border: 1px black;
+    border-style: solid;
+}
+
+#_01 {
+}
+
+main {
+    position: relative;
+    top: 80vh;
+}
+
+/* tipo */
+body {
+    font-family: 'PT Sans Narrow', sans-serif;
+    color:rgb(35, 35, 35);
+}
+
+h1 {
+    font-size: 1.4em;
+}
+
